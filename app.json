@@ -1,11 +1,13 @@
 {
   "expo": {
-    "name": "E",
+    "name": "E-Spark",
     "slug": "E",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/coder-sys/E-spark.git"
   },
   "name": "E"
 }
